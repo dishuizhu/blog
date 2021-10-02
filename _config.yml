@@ -102,8 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
-deploy:
   type: git
   repo: https://dishuizhu.github.io/blog
   # example, https://github.com/hexojs/hexojs.github.io
